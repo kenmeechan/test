@@ -1,3 +1,7 @@
 hi
+<<<<<<< HEAD
 hi there
 hi hi. I'm here
+=======
+anyone there?
+>>>>>>> refs/remotes/origin/master
